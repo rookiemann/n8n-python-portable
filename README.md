@@ -6,7 +6,7 @@ Extract → double-click `start-n8n.bat` → open http://localhost:5678
 Native **Python Code** node works instantly.
 
 ### Download
-[Latest ZIP]([https://github.com/rookiemann/n8n-python-portable/releases/latest/download/n8n-python-portable.zip](https://github.com/rookiemann/n8n-python-portable/releases/latest/download/n8n-portable.zip)) (~383 MB)
+[Latest ZIP](https://github.com/rookiemann/n8n-python-portable/releases/latest/download/n8n-portable.zip) (~383 MB)
 
 ### Folder Structure
 
