@@ -1,5 +1,7 @@
 # n8n 1.123.5 + Python 3.14 – Fully Portable Windows
 
+![License: MIT](https://img.shields.io/github/license/rookiemann/n8n-python-portable) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![n8n](https://img.shields.io/badge/n8n-1.123.5-FF6D5A) ![Python: 3.14](https://img.shields.io/badge/Python-3.14-green)
+
 No Docker • No pip • No conda • No admin rights • Works offline
 
 Extract → double-click `start-n8n.bat` → open http://localhost:5678  
